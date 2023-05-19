@@ -3,4 +3,4 @@
 ## Learning JavaScript
 
 ### Screenshot
-![the app](https://github.com/oye-nifemi/Random_Password_Gen_JS/blob/main/img/grab.png)
+![the app](https://github.com/oye-nifemi/Random_Password_Gen_JS/blob/main/img/grabb.png)
